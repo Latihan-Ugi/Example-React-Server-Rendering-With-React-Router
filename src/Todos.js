@@ -14,6 +14,8 @@ class Todos extends React.Component {
         data: []
       };
     }
+
+    console.log(props.staticContext)
   }
 
   componentDidMount() {

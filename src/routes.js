@@ -2,7 +2,7 @@ import App from './App';
 import Home from './pages/Home';
 import Posts from './pages/Posts';
 import Todos from './Todos';
-import NotFound from './NotFound';
+import NotFound from './pages/NotFound';
 
 import loadData from './helpers/loadData';
 

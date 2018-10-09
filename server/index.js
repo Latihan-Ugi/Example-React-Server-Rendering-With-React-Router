@@ -9,7 +9,7 @@ import Routes from '../src/routes';
 
 import App from '../src/App';
 
-const PORT = process.env.PORT || 3006;
+const PORT = process.env.PORT || 3000;
 const app = express();
 
 app.use(express.static('./build'));
